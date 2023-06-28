@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi, I'm Lucas Nunes
 
-<!--
-**lucasViniciusNunes/lucasViniciusNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Senior Backend Engineer | Software Architect | Tech Lead  
+🏗️ Expert in Node.js, Java, Serverless, Monolith, Microservices and event-driven systems on AWS  
+🧠 Business-driven mindset — I align technical decisions with product strategy and company stage to deliver the right solutions at the right time  
+🚀 Pragmatic and hands-on — fast-paced needs  
+📦 Skilled GraphQL, RESTful, Clean Architecture, Onion & Hexagonal, TDD, CI/CD, and messaging with Kafka, RabbitMQ, and EventBridge  
+🌱 Currently expanding my stack with Kubernetes, Python and NestJS  
 
-Here are some ideas to get you started:
+I drive architectural decisions through comprehensive evaluation of trade-offs across key quality attributes — including scalability, performance, availability, security, cost, maintainability, observability, usability, testability, portability, and compliance — always aligned with business context and team maturity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📲 Let’s talk!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Nunes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-vini-nunes/)
+
+📖 More about my journey, projects, and technical recommendations on my [LinkedIn profile](https://www.linkedin.com/in/lucas-vini-nunes/).
