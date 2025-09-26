@@ -19,4 +19,4 @@ I drive architectural decisions through comprehensive evaluation of trade-offs a
 
 ---
 
-https://komarev.com/ghpvc/?username=lucasViniciusNunes
+![](https://komarev.com/ghpvc/?username=lucasViniciusNunes)
