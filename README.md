@@ -16,3 +16,7 @@ I drive architectural decisions through comprehensive evaluation of trade-offs a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Nunes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-vini-nunes/)
 
 📖 More about my journey, projects, and technical recommendations on my [LinkedIn profile](https://www.linkedin.com/in/lucas-vini-nunes/).
+
+---
+
+https://komarev.com/ghpvc/?username=lucasViniciusNunes
