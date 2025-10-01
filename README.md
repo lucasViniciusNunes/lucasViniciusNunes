@@ -7,7 +7,7 @@
 📦 Skilled GraphQL, RESTful, Clean Architecture, Onion & Hexagonal, TDD, CI/CD, and messaging with Kafka, RabbitMQ, and EventBridge  
 🌱 Currently expanding my stack with Kubernetes, Python and NestJS  
 
-I drive architectural decisions through comprehensive evaluation of trade-offs across key quality attributes — including scalability, performance, availability, security, cost, maintainability, observability, usability, testability, portability, and compliance — always aligned with business context and team maturity.  
+I drive architectural decisions through comprehensive evaluation of trade-offs across key quality attributes — including scalability, performance, availability, security, and others — always aligned with business context and team maturity.  
 
 ---
 
