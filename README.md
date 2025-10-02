@@ -5,7 +5,7 @@
 🧠 Business-driven mindset — I align technical decisions with product strategy and company stage to deliver the right solutions at the right time  
 🚀 Pragmatic and hands-on — fast-paced needs  
 📦 Skilled GraphQL, RESTful, Clean Architecture, Onion & Hexagonal, TDD, CI/CD, and messaging with Kafka, RabbitMQ, and EventBridge  
-🌱 Currently expanding my stack with Kubernetes, Python and NestJS  
+🌱 Currently expanding my stack with Python and NestJS  
 
 I drive architectural decisions through comprehensive evaluation of trade-offs across key quality attributes — including scalability, performance, availability, security, and others — always aligned with business context and team maturity.  
 
